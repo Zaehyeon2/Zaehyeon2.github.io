@@ -1,0 +1,12 @@
+[
+  {
+    "src": "images/profile.jpg",
+    "alt": "프로필",
+    "caption": "프로필"
+  },
+  {
+    "src": "images/me.jpg",
+    "alt": "증명사진",
+    "caption": "증명사진"
+  }
+]

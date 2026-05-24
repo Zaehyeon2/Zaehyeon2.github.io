@@ -1,0 +1,26 @@
+[
+  {
+    "emoji": "📷",
+    "title": "Instagram @zaehyeon.io",
+    "url": "https://www.instagram.com/zaehyeon.io/",
+    "note": "내 인스타~"
+  },
+  {
+    "emoji": "🌐",
+    "title": "GitHub @Zaehyeon2",
+    "url": "https://github.com/Zaehyeon2",
+    "note": "내 깃허브~~~"
+  },
+  {
+    "emoji": "🎲",
+    "title": "TRPG Character Generator",
+    "url": "https://hammerturtle.xyz/TRPGCharacterGenerator/",
+    "note": "내가 만든 캐릭터 시트 생성기"
+  },
+  {
+    "emoji": "🐦",
+    "title": "Elon Musk Tweet Activity",
+    "url": "https://hammerturtle.xyz/elon-musk-tweet-activity/",
+    "note": "일론 머스크 트윗 활동 시각화"
+  }
+]

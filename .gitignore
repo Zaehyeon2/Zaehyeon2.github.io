@@ -1,0 +1,13 @@
+# IDE
+.idea/
+.vscode/
+
+# OMC / claude-mem state
+.omc/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 작업 참고용 임시 이미지
+effb1dbe-748a-4b78-a05b-a4d452ae1dbd.jpg
