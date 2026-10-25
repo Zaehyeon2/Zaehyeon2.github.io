@@ -16,7 +16,12 @@
 <meta name="twitter:card" content="summary_large_image" />
 
 <!-- Favicon -->
-<link rel="icon" type="image/png" href="images/favicon.png" />
+<link rel="icon" type="image/png" href="images/favicon.png" id="season-icon" />
+<script>
+  // 탭 아이콘을 방문자 날짜의 계절 거북이로(12~2월 겨울, 3~5월 봄, 6~8월 여름, 9~11월 가을).
+  document.getElementById('season-icon').href =
+    'images/favicon/' + ['winter', 'spring', 'summer', 'autumn'][Math.floor(((new Date().getMonth() + 1) % 12) / 3)] + '.png';
+</script>
 <link rel="apple-touch-icon" href="images/favicon.png" />
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
