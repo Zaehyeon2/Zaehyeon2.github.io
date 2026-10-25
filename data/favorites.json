@@ -28,5 +28,17 @@
     "title": "누구의 서재",
     "url": "https://nugu-shelf.hammerturtle.xyz",
     "note": "내가 만든 독후감/글방 사이트"
+  },
+  {
+    "emoji": "🐢",
+    "title": "허기부기",
+    "url": "https://hammerturtle.xyz/huggybugi/",
+    "note": "친구들이랑 같이 노는 데스크톱 캐릭터 앱"
+  },
+  {
+    "emoji": "📁",
+    "title": "포트폴리오",
+    "url": "https://hammerturtle.xyz/portfolio/",
+    "note": "내가 한 일 모음"
   }
 ]
